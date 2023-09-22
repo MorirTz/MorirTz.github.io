@@ -1,6 +1,6 @@
 <b> 自制S13模拟器 </b> <font color=royalblue> // O_o 签运交给随机器 </font> 
 
-<font color=deeppink> // o_O 胜负你来指定 </font>
+<font color=deeppink> // o_O 胜负你来指定 </font><br>
 
 <b> NGA帖子</b> <font color=teal> // 使用说明+视频演示+etc</font>
 
