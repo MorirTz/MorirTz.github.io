@@ -1,6 +1,4 @@
-#### .
-
-#### 自制S13模拟器 
+自制S13模拟器 
 <font color=royalblue> O_o 签运交给随机器 </font> 
 <font color=deeppink> o_O 胜负你来指定 </font>
 
